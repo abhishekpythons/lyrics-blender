@@ -1,0 +1,418 @@
+﻿0
+00:00:01,000 --> 00:00:6,000
+This is made on Abhishek's
+lyrics blender ′
+
+1
+00:00:06,100 --> 00:00:08,000
+You can use any font
+
+2
+00:00:08,100 --> 00:00:10,000
+Apply any music 
+OR
+song
+
+3
+00:00:10,100 --> 00:00:12,000
+Change background image 
+as your choice
+
+4
+00:00:12,000 --> 00:00:14,000
+Let me show you 
+An example
+
+5
+00:00:14,100 --> 00:00:16,000
+music-AlonePt2 
+.srt taken from 
+RentAnAdviser.com 
+
+6
+00:00:16,100 --> 00:00:18,000
+font-Akronim 
+taken from 
+font.google.com
+
+7
+00:00:18,100 --> 00:00:20,000
+background - nature,water 
+taken from 
+source unsplash
+
+8
+00:00:20,000 --> 00:00:25,000
+Made By - 
+Abhishek verma
+
+9
+00:00:25,215 --> 00:00:26,014
+We were young
+
+10
+00:00:26,110 --> 00:00:27,309
+Posters on the wall
+
+11
+00:00:27,411 --> 00:00:28,610
+Praying We are the ones
+
+12
+00:00:28,712 --> 00:00:30,111
+That the teacher 
+wouldn't call
+
+13
+00:00:30,209 --> 00:00:33,108
+We would stare at 
+each other
+
+14
+00:00:33,210 --> 00:00:35,509
+'Cause we were 
+always in trouble
+
+15
+00:00:35,617 --> 00:00:36,916
+And all the cool kids
+
+16
+00:00:37,002 --> 00:00:38,201
+Did their own thing
+
+17
+00:00:38,315 --> 00:00:39,914
+I was on the outside
+
+18
+00:00:40,004 --> 00:00:41,103
+Always looking in
+
+19
+00:00:41,209 --> 00:00:43,708
+Yeah‚ I was there
+but I wasn't
+
+20
+00:00:43,814 --> 00:00:46,913
+They never really cared 
+if I wasn't
+
+21
+00:00:47,017 --> 00:00:49,616
+We all need that someone
+
+22
+00:00:49,714 --> 00:00:52,713
+Who gets you
+like no one else
+
+23
+00:00:52,805 --> 00:00:57,154
+Right when you
+need it the most
+
+24
+00:00:57,218 --> 00:01:00,517
+We all need 
+a soul to rely on
+
+25
+00:01:00,601 --> 00:01:03,200
+A shoulder to 
+cry on
+
+26
+00:01:03,318 --> 00:01:07,717
+A friend through the 
+highs and the lows
+
+27
+00:01:07,807 --> 00:01:09,606
+I am not gonna 
+make it alone
+
+28
+00:01:09,718 --> 00:01:10,517
+La la la la la la
+
+29
+00:01:10,611 --> 00:01:13,210
+La la la la la 
+–lone
+
+30
+00:01:13,314 --> 00:01:14,913
+I am not gona make it 
+alone
+
+31
+00:01:15,015 --> 00:01:15,914
+La la la la la la
+
+32
+00:01:16,000 --> 00:01:18,399
+La la la la la 
+–lone
+
+33
+00:01:18,505 --> 00:01:20,304
+I am not gonna 
+make it alone
+
+34
+00:01:20,406 --> 00:01:21,405
+La la la la la la
+
+35
+00:01:21,503 --> 00:01:24,002
+La la la la la 
+–lone
+
+36
+00:01:24,116 --> 00:01:25,715
+I am not gona make it 
+alone
+
+37
+00:01:25,807 --> 00:01:26,706
+La la la la la la
+
+38
+00:01:26,814 --> 00:01:29,313
+La la la la la 
+–lone
+
+39
+00:01:29,417 --> 00:01:31,416
+Then I saw your face
+
+40
+00:01:31,516 --> 00:01:32,815
+Your forgiving eyes
+
+41
+00:01:32,903 --> 00:01:34,202
+Looking back at me
+
+42
+00:01:34,306 --> 00:01:35,505
+From the other side
+
+43
+00:01:35,609 --> 00:01:38,508
+Like you understood me
+
+44
+00:01:38,608 --> 00:01:41,307
+And I am never 
+letting you go‚ oh
+
+45
+00:01:41,407 --> 00:01:44,206
+We all need 
+that someone
+
+46
+00:01:44,314 --> 00:01:47,313
+Who gets you like 
+no one else
+
+47
+00:01:47,405 --> 00:01:51,604
+Right when you 
+need it the most
+
+48
+00:01:51,710 --> 00:01:55,109
+We all need a soul 
+to rely on
+
+49
+00:01:55,201 --> 00:01:57,800
+A shoulder 
+to cry on
+
+50
+00:01:57,904 --> 00:02:02,103
+A friend through 
+the highs and the lows
+
+51
+00:02:02,211 --> 00:02:04,210
+I am not gonna make it 
+alone
+
+52
+00:02:04,302 --> 00:02:05,001
+La la la la la la
+
+53
+00:02:05,115 --> 00:02:07,614
+La la la la la 
+–lone
+
+54
+00:02:07,714 --> 00:02:09,413
+I am not gona make it 
+alone
+
+55
+00:02:09,515 --> 00:02:10,414
+La la la la la la
+
+56
+00:02:10,500 --> 00:02:12,899
+La la la la la 
+–lone
+
+57
+00:02:13,015 --> 00:02:14,814
+I am not gona make it 
+alone
+
+58
+00:02:14,900 --> 00:02:15,899
+La la la la la la
+
+59
+00:02:16,011 --> 00:02:18,410
+La la la la la 
+–lone
+
+60
+00:02:18,512 --> 00:02:20,211
+I am not gona make it 
+alone
+
+61
+00:02:20,305 --> 00:02:21,304
+La la la la la la
+
+62
+00:02:21,404 --> 00:02:23,803
+La la la la la 
+–lone
+
+63
+00:02:23,901 --> 00:02:27,100
+I am not gona make it 
+alone
+
+64
+00:02:37,902 --> 00:02:40,201
+La la la la la la 
+–lone
+
+65
+00:02:40,313 --> 00:02:42,112
+I am not gona make it 
+alone
+
+66
+00:02:42,210 --> 00:02:43,109
+La la la la la la
+
+67
+00:02:43,207 --> 00:02:46,406
+La la la la la 
+–lone
+
+68
+00:02:47,202 --> 00:02:49,701
+'Cause you are 
+that someone
+
+69
+00:02:49,805 --> 00:02:52,804
+That gets me like
+no one else
+
+70
+00:02:52,918 --> 00:02:57,017
+Right when I need 
+it the most
+
+71
+00:02:57,115 --> 00:03:00,514
+And I will be 
+the one you rely on
+
+72
+00:03:00,600 --> 00:03:03,2959
+Your shoulder 
+to cry on
+
+73
+00:03:03,407 --> 00:03:07,706
+A friend through 
+the highs and the lows
+
+74
+00:03:07,812 --> 00:03:09,511
+I am not gona 
+make it alone
+
+75
+00:03:09,611 --> 00:03:10,410
+La la la la la la
+
+76
+00:03:10,510 --> 00:03:13,009
+La la la la la la 
+–lone
+
+77
+00:03:13,105 --> 00:03:14,804
+I am not gona 
+make it alone
+
+78
+00:03:14,916 --> 00:03:15,715
+La la la la la la
+
+79
+00:03:15,811 --> 00:03:18,410
+La la la la la la 
+–lone
+
+80
+00:03:18,506 --> 00:03:20,205
+I am not gona make it 
+alone
+
+81
+00:03:20,313 --> 00:03:21,312
+La la la la la la
+
+82
+00:03:21,418 --> 00:03:23,817
+La la la la la la 
+–lone
+
+83
+00:03:23,917 --> 00:03:25,716
+I am not gona make it alone
+
+84
+00:03:25,806 --> 00:03:26,805
+La la la la la la
+
+85
+00:03:26,901 --> 00:03:29,300
+La la la la la la 
+–lone
+
+86
+00:03:29,414 --> 00:03:32,613
+I am not gona 
+make it alone
+
+87
+00:03:33,603 --> 00:03:38,602
+THANKS FOR WATCHING
+
+88
+00:03:39,000 --> 00:03:42,602
+THANKS FOR WATCHING
